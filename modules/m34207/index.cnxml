@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>A Note on Paper</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34207</md:content-id>
+  <md:title>A Note on Paper</md:title>
+  <md:abstract/>
+  <md:uuid>dd0f19bd-c3d6-47d7-8fbb-d0ccf8fe4190</md:uuid>
+</metadata>
+
+<content>
+ <para id="buybutton-para"><media id="buybutton" alt="The Sphinx -- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/cnx_images/sphinx-buybutton.jpg">
+		  <param name="style" value="padding: 0px; margin-left: 5px; border: solid; border-width:1px; border-color:#002469; float: right; cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/The-Sphinx-by-Oscar-Wilde--with-Charles-Ricketts--Edited-and-with-an-Afterword-by-Nicholas-Frankel--64311450544461/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+</para>
+
+
+    <para id="id1171486321649">Regular copies of the 1894 edition of <emphasis effect="italics">The Sphinx</emphasis> were printed on finely-made laid paper, manufactured by Joseph Arnold at the Eynsford Paper Mill in Kent. (A further twenty-five large-paper copies were issued, at a slightly later date than the regular copies, printed on a different stock of paper.) This paper—which was produced according to the specifications of Charles Ricketts, the book’s designer—bore two watermarks that have not been reproduced in the present edition: “Unbleached Arnold” (a watermark classifying the paper’s type and manufacture) and another watermark consisting of the letters V P interlaced with a leaf of wild thyme, which Ricketts had recently designed for incorporation into the paper of books printed at his Vale Press. Although <emphasis effect="italics">The Sphinx</emphasis> predates the first Vale Press publications, and although it was published by a trade press (Elkin Mathews and John Lane), bibliographers refer to the paper on which it was first printed as “Vale paper” since it is identical to that used in a number of books issued by Ricketts from his Vale Press over the ensuing years. <emphasis effect="italics">The Sphinx</emphasis> was in fact one of the first books ever printed on Vale paper. </para>
+    <para id="id5615751">The luxuriousness of the book’s paper was immediately noticeable to some of its earliest readers. This is not surprising, since <emphasis effect="italics">The Sphinx</emphasis> originally consisted of twenty-four unpaginated (i.e., unnumbered) leaves, six of which were blank on both sides and another four of which were blank on one side. But there were practical reasons for the inclusion of so much blank paper. Two of the entirely blank leaves were, strictly speaking, “free endpapers” and thus part of the mechanism that tied the book’s covers to its paper “body.” The remaining four entirely blank leaves—two of which were situated adjacent to the front endpapers of the 1894 edition, and two of which were adjacent to the back endpapers—were incorporated so as to give bulk to the body of the book, according to Ricketts, and to ensure that the binding did not encroach upon the text’s inner margins when the leaves were gathered and bound together. For this reason, while the present print edition faithfully reproduces those leaves which were blank on one side only, it omits all those leaves which were entirely blank on the grounds that they were not properly part of the text itself but rather endpapers and endleaves, introduced into the 1894 edition principally for binding purposes.</para>
+  </content>
+</document>
